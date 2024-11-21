@@ -16,13 +16,13 @@ class CalciDevops {
 	            case "Add":
 	                System.out.println("Result: " + (num1 + num2));
 	                break;
-	            case "Subtract":
+	            case "Subtraction":
 	                System.out.println("Result: " + (num1 - num2));
 	                break;
-	            case "Multiply":
+	            case "Multiplication":
 	                System.out.println("Result: " + (num1 * num2));
 	                break;
-	            case "Divide":
+	            case "Division":
 	                if (num2 != 0) {
 	                    System.out.println("Result: " + (num1 / num2));
 	                } else {
