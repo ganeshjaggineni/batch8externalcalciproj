@@ -13,7 +13,7 @@ class CalciDevops {
 	        double num2 = Double.parseDouble(args[2]);
 
 	        switch (operation) {
-	            case "Add":
+	            case "Addition":
 	                System.out.println("Result: " + (num1 + num2));
 	                break;
 	            case "Subtraction":
